@@ -29,18 +29,20 @@ Focused on mastering **C++** fundamentals, Algorithms, and Logic Building using 
 
 Here are some projects I built to practice logic and algorithms:
 
-- **[ 🧮 Math Game ](INSERT_LINK_HERE)**
-  - *A console-based game to test mental math skills with different difficulty levels.*
 
-- **[ ✂️ Stone - Paper - Scissor ](INSERT_LINK_HERE)**
+- **[ ✂️ Stone - Paper - Scissor ](https://github.com/ABDLLH2PG/Project-1-Stone-Paper-Scissor.git)**
   - *A classic game implementation against the computer using C++ logic.*
+
+- **[ 🧮 Math Game ](https://github.com/ABDLLH2PG/Project-2-Math-Game.git)**
+  - *A console-based game to test mental math skills with different difficulty levels.*
 
 ---
 
-### 🎯 Currently Focusing On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
-- **Abu-Hadhoud Roadmap** (Course 6 & beyond).
-- Mastering **Functions** & **Arrays**.
-- Solving algorithmic problems to strengthen problem-solving skills 🧠.
+### 🎯 Currently Focusing On & Achievements <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- **Abu-Hadhoud Roadmap** (Strong Foundation).
+- ✅ Solved **300+** Programming Problems & Algorithms.
+- Mastering **Functions**, **Arrays** & Logic Building 🧠.
+- Improving clean code practices in **C++**.
 
 ---
 
@@ -54,24 +56,24 @@ Here are some projects I built to practice logic and algorithms:
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=stars" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ABDLLH2PG&show_icons=true&theme=tokyonight&hide=stars" />
       </td> 
       <td> 
-        <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+        <img src="https://streak-stats.demolab.com/?user=ABDLLH2PG&theme=tokyonight" />
       </td> 
     </tr> 
   </table>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDLLH2PG&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
 ### 📬 Contact Me <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ABDLLH2PG">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -82,12 +84,14 @@ Here are some projects I built to practice logic and algorithms:
 #include <iostream>
 using namespace std;
 
-// My current status
 int main() {
-    string name = "Abdullah";
-    string focus = "C++ & Problem Solving";
-    string motto = "Practice makes perfect!";
+    // 🎓 Academic Status
+    string university = "King Abdulaziz University (KAU)";
+    string major = "Computer Science (CS)";
+    string batch = "Class of 25";
 
-    cout << "Welcome to my profile! 🚀" << endl;
+    // 🚀 Mission
+    cout << "Turning caffeine into code & solving problems!" << endl;
+    
     return 0;
 }
