@@ -56,6 +56,9 @@ Here are some projects I built to practice logic and algorithms:
   <a href="https://github.com/ABDLLH2PG">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+    <a href="mailto:ABDLLH2PG@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 ---
