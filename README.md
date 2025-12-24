@@ -29,11 +29,10 @@ Focused on mastering **C++** fundamentals, Algorithms, and Logic Building using 
 
 Here are some projects I built to practice logic and algorithms:
 
-
-- **[ ✂️ Stone - Paper - Scissor ](https://github.com/ABDLLH2PG/Project-1-Stone-Paper-Scissor.git)**
+- **[ ✂️ Stone - Paper - Scissor ](https://github.com/ABDLLH2PG/Project-1-Stone-Paper-Scissor)**
   - *A classic game implementation against the computer using C++ logic.*
 
-- **[ 🧮 Math Game ](https://github.com/ABDLLH2PG/Project-2-Math-Game.git)**
+- **[ 🧮 Math Game ](https://github.com/ABDLLH2PG/Project-2-Math-Game)**
   - *A console-based game to test mental math skills with different difficulty levels.*
 
 ---
@@ -47,7 +46,7 @@ Here are some projects I built to practice logic and algorithms:
 ---
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="100" />
 </div>
 
 ---
@@ -73,7 +72,7 @@ Here are some projects I built to practice logic and algorithms:
 
 ### 📬 Contact Me <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-<a href="https://github.com/ABDLLH2PG">
+  <a href="https://github.com/ABDLLH2PG">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
