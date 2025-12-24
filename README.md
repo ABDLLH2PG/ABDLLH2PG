@@ -51,25 +51,6 @@ Here are some projects I built to practice logic and algorithms:
 
 ---
 
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ABDLLH2PG&show_icons=true&theme=tokyonight&hide=stars" />
-      </td> 
-      <td> 
-        <img src="https://streak-stats.demolab.com/?user=ABDLLH2PG&theme=tokyonight" />
-      </td> 
-    </tr> 
-  </table>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDLLH2PG&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 📬 Contact Me <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
   <a href="https://github.com/ABDLLH2PG">
