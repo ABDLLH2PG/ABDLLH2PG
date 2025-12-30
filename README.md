@@ -25,6 +25,16 @@ Focused on mastering **C++** fundamentals, Algorithms, and Logic Building using 
 
 ---
 
+### 📦 My Custom Libraries (Masterpiece) <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80" />
+
+I have built my own **Header-only C++ Libraries** from scratch to practice **Clean Architecture** and **Divide & Conquer** strategy. These libraries are used in all my projects to handle Inputs, Dates, Strings, and more.
+
+| Repository | Description | Type |
+| :--- | :--- | :--- |
+| **[🚀 My-CPP-Library](https://github.com/ABDLLH2PG/My-CPP-Library)** | A robust set of helper libraries (Input Validation, Date, String, Math). Built for reusability and efficiency. | **System Tool** |
+
+---
+
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 
 Here are some projects I built to practice logic and algorithms:
