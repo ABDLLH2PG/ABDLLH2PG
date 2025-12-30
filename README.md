@@ -31,7 +31,7 @@ I have built my own **Header-only C++ Libraries** from scratch to practice **Cle
 
 | Repository | Description | Type |
 | :--- | :--- | :--- |
-| **[🚀 My-CPP-Library](https://github.com/ABDLLH2PG/My-CPP-Library)** | A robust set of helper libraries (Input Validation, Date, String, Math). Built for reusability and efficiency. | **System Tool** |
+| **[🚀 My&#8209;CPP&#8209;Library](https://github.com/ABDLLH2PG/My-CPP-Library)** | A robust set of helper libraries (Input Validation, Date, String, Math). Built for reusability and efficiency. | **System Tool** |
 
 ---
 
