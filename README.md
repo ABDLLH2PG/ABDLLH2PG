@@ -8,7 +8,7 @@
 
 ### 👋 Hello! I'm **Abdullah** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-A Computer Science Student & Problem Solver 🚀.  
+A Information Technology Student & Problem Solver 🚀.  
 I am currently walking the path of **Abu-Hadhoud Roadmap**.  
 Focused on mastering **C++** fundamentals, Algorithms, and Logic Building using **Visual Studio** 💻.
 
