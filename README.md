@@ -45,6 +45,9 @@ Here are some projects I built to practice logic and algorithms:
 - **[ 🧮 Math Game ](https://github.com/ABDLLH2PG/Project-2-Math-Game)**
   - *A console-based game to test mental math skills with different difficulty levels.*
 
+- **[ 🏦 Bank System ](https://github.com/ABDLLH2PG/Project-3-Bank-System)**
+  - *A comprehensive banking system that handles client data management and financial transactions with permanent storage.*
+
 ---
 
 ### 🎯 Currently Focusing On & Achievements <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
@@ -83,7 +86,7 @@ using namespace std;
 int main() {
     // 🎓 Academic Status
     string university = "King Abdulaziz University (KAU)";
-    string major = "Computer Science (CS)";
+    string major = "Computer Science (IT)";
     string batch = "Class of 25";
 
     // 🚀 Mission
