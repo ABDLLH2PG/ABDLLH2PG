@@ -48,6 +48,9 @@ Here are some projects I built to practice logic and algorithms:
 - **[ 🏦 Bank System ](https://github.com/ABDLLH2PG/Project-3-Bank-System)**
   - *A comprehensive banking system that handles client data management and financial transactions with permanent storage.*
 
+- **[ 🏧 ATM System ](https://github.com/ABDLLH2PG/Project-4-ATM-System)**
+  - *An advanced ATM simulation focusing on data synchronization and secure financial transactions.*
+
 ---
 
 ### 🎯 Currently Focusing On & Achievements <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
