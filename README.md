@@ -55,7 +55,7 @@ Here are some projects I built to practice logic and algorithms:
 - **[ 🏦 Bank Management System (OOP) ](https://github.com/ABDLLH2PG/Project-5-Bank-System-OOP)**
   - *A complete refactoring of a banking system into a modular OOP design, handling everything from core client data to real-time currency conversion.*
 
-- **[ 🎫 Customer Ticket Manager ](https://github.com/ABDLLH2PG/Customer-Ticket-Manager)**
+- **[ 🎫 Customer Ticket Manager ](https://github.com/ABDLLH2PG/Project-6-Customer-Ticket-Manager)**
   - *A robust OOP console application simulating a real-world ticketing system with automated queue tracking and dynamic wait-time estimations.*
 
 ---
