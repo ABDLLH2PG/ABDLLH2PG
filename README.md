@@ -27,11 +27,12 @@ Focused on mastering **C++** fundamentals, Algorithms, and Logic Building using 
 
 ### 📦 My Custom Libraries (Masterpiece) <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80" />
 
-I have built my own **Header-only C++ Libraries** from scratch to practice **Clean Architecture** and **Divide & Conquer** strategy. These libraries are used in all my projects to handle Inputs, Dates, Strings, and more.
+I have built my own **Header-only C++ Libraries** from scratch to practice **Clean Architecture**, **Memory Management**, and **Divide & Conquer** strategy. These libraries are used in all my projects to handle Inputs, Dates, Strings, and complex Data Structures.
 
 | Repository | Description | Type |
 | :--- | :--- | :--- |
 | **[🚀 My&#8209;CPP&#8209;Library](https://github.com/ABDLLH2PG/My-CPP-Library)** | A robust set of helper libraries (Input Validation, Date, String, Math). Built for reusability and efficiency. | **System Tool** |
+| **[📚 CPP&#8209;Data&#8209;Structures](https://github.com/ABDLLH2PG/CPP-Data-Structures-Library)** | A custom implementation of core Data Structures (Linked Lists, Stacks, Queues, Dynamic Arrays) built from scratch using OOP and raw pointers. | **Core Library** |
 
 ---
 
@@ -54,13 +55,16 @@ Here are some projects I built to practice logic and algorithms:
 - **[ 🏦 Bank Management System (OOP) ](https://github.com/ABDLLH2PG/Project-5-Bank-System-OOP)**
   - *A complete refactoring of a banking system into a modular OOP design, handling everything from core client data to real-time currency conversion.*
 
+- **[ 🎫 Customer Ticket Manager ](https://github.com/ABDLLH2PG/Customer-Ticket-Manager)**
+  - *A robust OOP console application simulating a real-world ticketing system with automated queue tracking and dynamic wait-time estimations.*
+
 ---
 
 ### 🎯 Currently Focusing On & Achievements <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap** (Strong Foundation).
 - ✅ Solved **300+** Programming Problems & Algorithms.
-- Mastering **Functions**, **Arrays** & Logic Building 🧠.
-- Improving clean code practices in **C++**.
+- Mastering **Functions**, **Arrays**, **Pointers** & Logic Building 🧠.
+- Improving clean code practices and memory management in **C++**.
 
 ---
 
